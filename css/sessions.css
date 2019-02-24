@@ -1,0 +1,68 @@
+.personalSession{
+  background-image: url("../img/personalSession.png");
+  background-position: center;
+  background-size: cover;
+  color: #FFF;
+  padding: 250px 0px 250px 0px;
+  position: relative;
+  text-shadow: 3px 3px 13px #000;
+}
+
+.groupSession{
+  background-image: url("../img/groupSession.jpg");
+  background-position: center;
+  background-size: cover;
+  padding: 250px 0px 250px 0px;
+  color: #FFF;
+  position: relative;
+  text-shadow: 3px 3px 13px #000;
+
+}
+
+.bannerText{
+  font-family: Impact, Charcoal, sans-serif;
+	font-weight: 200;
+	letter-spacing: 2px;
+	font-size: 70px;
+  font-size: 5vw;
+	text-align:center;
+}
+
+.overlay{
+  -webkit-filter: grayscale(100%);
+  -webkit-transition: .5s ease-in-out;
+  -moz-filter: grayscale(100%);
+  -moz-transition: .5s ease-in-out;
+  -o-filter: grayscale(100%);
+  -o-transition: .5s ease-in-out;
+
+}
+
+.overlay:hover{
+  -webkit-filter: grayscale(0%);
+  -webkit-transition: .5s ease-in-out;
+  -moz-filter: grayscale(0%);
+  -moz-transition: .5s ease-in-out;
+  -o-filter: grayscale(0%);
+  -o-transition: .5s ease-in-out;
+
+}
+
+.title{
+  font-family: Georgia, sans-serif;
+  font-weight: 100;
+  letter-spacing: 2px;
+  font-size: 30px;
+}
+
+.noMargin{
+  margin: 0px;
+}
+
+.bodyBG{
+  background-color:Gainsboro;
+}
+
+.error{
+  color: red;
+}

@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body{
+padding-top: 50px;
+}
+
+.navbar{
+  border-radius: 0;
+  margin: 0;
+}
+.navbar-brand {
+  font-size: 25px;
+}
+
+#background{
+  background-color: #677077;
+  background-image: url(../img/picture1.jpg);
+  background-size: cover;
+  height: 30em;
+}
+@media (max-width: 767px){
+  #background{
+    height: 30em;
+  }
+}
+.middle {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+.card {
+    /* Add shadows to create the "card" effect */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    padding: 20px;
+background-color: white;
+}
