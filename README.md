@@ -17,7 +17,7 @@
 7. Open the web app by typing "localhost/'folder name'/webpage/SignIn.php"
 
 ### *** The SignIn.php page:
-<img src="https://github.com/AdrianFoo97/BIT210-Web-Programming/blob/master/signin.png" width="500" height="500">
+<img src="https://github.com/AdrianFoo97/BIT210-Web-Programming/blob/master/signin.png" width="1000" height="500">
 
 ### Three default user has been created in the database: 
 |No. | Username | Password |
