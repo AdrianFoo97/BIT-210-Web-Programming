@@ -5,4 +5,4 @@
 ### This is a web application for fitness center.
 
 ### Use case diagram for this web app
-![alt text](https://github.com/AdrianFoo97/BIT210-Web-Programming/edit/master/usecase.png "Use Case")
+<img src="https://github.com/AdrianFoo97/BIT210-Web-Programming/blob/master/usecase.png" width="150" height="150">
