@@ -14,7 +14,7 @@
 4. Start Apache and MySql service
 5. Click on the "admin" button on mySql on the XAMPP control panel and proceed to the import page
 6. Load the "database generator.sql" into database
-7. Open the web app by typing "localhost/'folder name'/webpage/SignIn.php"
+7. Open the web app by typing "localhost/'folder name'/webpage/SignIn.php" into browser
 
 ### *** The SignIn.php page:
 <img src="https://github.com/AdrianFoo97/BIT210-Web-Programming/blob/master/signin.png" width="1000" height="500">
